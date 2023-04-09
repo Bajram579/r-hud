@@ -1,0 +1,17 @@
+RegisterCommand('id', function()
+    TriggerEvent('r-hud:notification', 'info', 'R-DEV', ('Deine ID lautet: %s'):format(GetPlayerServerId(PlayerId())), 5000)
+end, false)
+
+RegisterCommand('notifytest', function()
+    TriggerEvent('r-hud:notification', 'info', 'R-DEV', 'Info Notification', 5000)
+    TriggerEvent('r-hud:notification', 'error', 'R-DEV', 'Error Notification', 5000)
+    TriggerEvent('r-hud:notification', 'success', 'R-DEV', 'Success Notification', 5000)
+    TriggerEvent('r-hud:notification', 'warning', 'R-DEV', 'Warning Notification', 5000)
+    TriggerEvent('r-hud:announce', 'So ein cooler Announce, hihi!', 5000)
+    TriggerEvent('r-hud:start:progress', 'Teste Progressbar....', 5000)
+end, false)
+
+RegisterNetEvent('notifications')
+AddEventHandler('notifications', function(color, title, text)
+    SendNUIMessage({a='n',type='info',title=title,text=text,time=3000})
+end)

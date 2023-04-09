@@ -1,0 +1,17 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_280_104)">
+<path d="M4.58333 7.33332C5.59586 7.33332 6.41667 6.51251 6.41667 5.49999C6.41667 4.48747 5.59586 3.66666 4.58333 3.66666C3.57081 3.66666 2.75 4.48747 2.75 5.49999C2.75 6.51251 3.57081 7.33332 4.58333 7.33332Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.9998 7.33332C12.0124 7.33332 12.8332 6.51251 12.8332 5.49999C12.8332 4.48747 12.0124 3.66666 10.9998 3.66666C9.98732 3.66666 9.1665 4.48747 9.1665 5.49999C9.1665 6.51251 9.98732 7.33332 10.9998 7.33332Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.4168 7.33332C18.4294 7.33332 19.2502 6.51251 19.2502 5.49999C19.2502 4.48747 18.4294 3.66666 17.4168 3.66666C16.4043 3.66666 15.5835 4.48747 15.5835 5.49999C15.5835 6.51251 16.4043 7.33332 17.4168 7.33332Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.58333 18.3333C5.59586 18.3333 6.41667 17.5125 6.41667 16.5C6.41667 15.4875 5.59586 14.6667 4.58333 14.6667C3.57081 14.6667 2.75 15.4875 2.75 16.5C2.75 17.5125 3.57081 18.3333 4.58333 18.3333Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.9998 18.3333C12.0124 18.3333 12.8332 17.5125 12.8332 16.5C12.8332 15.4875 12.0124 14.6667 10.9998 14.6667C9.98732 14.6667 9.1665 15.4875 9.1665 16.5C9.1665 17.5125 9.98732 18.3333 10.9998 18.3333Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.5835 7.33334V14.6667" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11 7.33334V14.6667" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.4168 7.33334V9.16668C17.4168 9.65291 17.2237 10.1192 16.8799 10.463C16.536 10.8069 16.0697 11 15.5835 11H4.5835" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_280_104">
+<rect width="22" height="22" fill="white"/>
+</clipPath>
+</defs>
+</svg>
